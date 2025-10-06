@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Purohit</h1>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Quantitative Finance**
 
-- 🌱 I’m currently learning **Cybersecurity**
-
-- 📫 Here's how to reach me: **adpurohit17@gmail.com**
+- 📫 Here's how to reach me: **apurohi6@ncsu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
